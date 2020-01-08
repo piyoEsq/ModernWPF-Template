@@ -1,0 +1,15 @@
+{
+    "$schema": "http://json.schemastore.org/template",
+    "author": "piyosi",
+    "classifications": [ "WPF" ], 
+    "name": "Modern WPF Template",
+    "identity": "Template.WPF.Modern.Piyosi.CSharp",         
+    "groupIdentity":"Template.WPF.Modern.Piyosi",
+    "shortName": "ModernWPF",
+    "tags": {
+      "language": "C#",
+      "type":"project"
+    },
+    "sourceName": "BaseTemplate",
+    "preferNameDirectory": true
+  }
